@@ -1,0 +1,2 @@
+You're insignificant, the future is misarable, but you should be happy. Because we're here at this random time in the middle of nowhere and we've been able to discover the history of the universe back to the earliest moments the Bid Bang, discover 400 billion galaxies, because we're fortunate enough to have evolved with an intelligence. And so instead of being depressed about a miserable future and beging insignificant, we should enjoy our brief monent in the sun.
+
