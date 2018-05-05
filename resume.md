@@ -1,5 +1,5 @@
 * Hǎiliàng Wáng (王海亮）
-* https://h12.me
+* https://h12.io
 * https://github.com/h12w
 
 Highlights
@@ -8,13 +8,13 @@ Highlights
 * One of the top Go developer in China
     - aliyun-oss-go-sdk: winner of the ¥34000 prize in the open contest of Aliyun
 * Passionate about writing well-tested, elegant code
-    - h12.me/gspec: an expressive, reliable, concurrent and extensible Go test framework
-    - h12.me/realtest: real test environment for Go unit testing, based on Docker
+    - h12.io/gspec: an expressive, reliable, concurrent and extensible Go test framework
+    - h12.io/realtest: real test environment for Go unit testing, based on Docker
 * Strong Experience in parser and generator
-    - h12.me/wipro: parse BNF and generates wire protocol code
-    - h12.me/xsd: generate Go struct from XSD spec
+    - h12.io/wipro: parse BNF and generates wire protocol code
+    - h12.io/xsd: generate Go struct from XSD spec
 * Life-long learner
-    - h12.me/kpax: I became a Kafka expert and a client author in 2 months
+    - h12.io/kpax: I became a Kafka expert and a client author in 2 months
 
 Experience
 ----------
